@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html, body
+{
+	height: 100%;
+	width: 100%;
+	font-family: 'Poppins', sans-serif;	
+	color: #222;
+}
+
+.navbar
+{
+	padding: .8rem;
+}
+
+.navbar-nav li
+{
+	padding-right: 20px;
+}
+
+.nav-link
+{
+	font-size: 1.1em !important;
+}
+
+.carousel-inner img
+{
+	height: 100%;
+	width: 100%;
+}
+
+.carousel-caption
+{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.carousel-caption h1
+{
+	font-size: 500%;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 15px #000;
+}
+
+.carousel-caption h3
+{
+	font-size: 200%;
+	font-weight: 500;
+	text-shadow: 1px 1px 10px #000;
+	padding-bottom: 2rem;
+}
+
+/* brown button, comment it if you want green button which is by default in Bootstrap */
+
+.carousel-caption .btn-primary
+{
+	background-color: #6648B1;
+	border: 1px solid #6648B1;
+}
+
+.carousel-caption .btn-primary:hover
+{
+	background-color: #563D7C;
+	border: 1px solid #563D7C
+}
+
+/* comment till here */
+
+/* ending for today 13/6/19 3:53 pm */

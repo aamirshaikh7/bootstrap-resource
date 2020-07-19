@@ -1,0 +1,16 @@
+.slider-img{
+    width: 100%;
+}
+.product-img{
+    height: 350px;
+}
+.info-product-price span {
+    color: #000;
+    font-size: 1em;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.card-title a{
+    text-decoration: none;
+}
+    
